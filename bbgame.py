@@ -11,9 +11,9 @@ BLACK = (0, 0, 0)
 BALL_COLOR = (100, 100, 100)
 
 ball_radius = 20
-ball_x = WIDTH // 1
-ball_y = HEIGHT // 6
-ball_speed_x = 99
+ball_x = WIDTH // 6
+ball_y = HEIGHT // 2
+ball_speed_x = 10
 ball_speed_y = 8
 
 clock = pygame.time.Clock()
